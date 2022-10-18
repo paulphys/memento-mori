@@ -1,7 +1,7 @@
 # Memento mori
 > Your Life in Weeks
 
-<img src="public/header.png" width="750" />
+<img src="public/header.png" width="850" />
 
 ## Develop locally
 
@@ -11,4 +11,3 @@ cd memento-mori
 yarn
 yarn dev
 ```
-
