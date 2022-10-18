@@ -1,7 +1,7 @@
 # Memento mori
 > Your Life in Weeks
 
-<img src="public/header.png" width="850" />
+<img src="public/header.png" width="1024" />
 
 ## Develop locally
 
