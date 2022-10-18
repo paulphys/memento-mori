@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { addWeeks, isPast } from 'date-fns'
 
 const Index: NextPage = () => {
-  
+
   const lifeCalendar = []
   // Start the date on your birthday (YYYY-MM-DD)
   let prevDate = new Date('1999-09-09')
@@ -25,7 +25,7 @@ const Index: NextPage = () => {
   return (
     <>
     <Head>
-        <title>Memento mori</title>
+        <title>Memento Mori</title>
     </Head>
 
     <div className="py-32 mx-auto max-w-2xl px-6 md:px-0 select-none">
